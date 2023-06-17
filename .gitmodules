@@ -8,3 +8,8 @@
 	url = https://github.com/guillaumeevin/gwex
 	shallow = true
 	registered = true
+[submodule "QUALYPSO"]
+	path = QUALYPSO
+	url = https://github.com/guillaumeevin/qualypso
+	shallow = true
+	registered = true
